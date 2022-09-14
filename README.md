@@ -11,5 +11,5 @@ A Rule110 implemented in Odin
 ### Build
 ```
 ./build.sh
-./main.bin
+./rule110.bin
 ```
